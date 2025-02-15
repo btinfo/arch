@@ -1,0 +1,13 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+# IME Settings
+GTK_IM_MODULE=fcitx
+QT_IM_MODULE=fcitx
+XMODIFIERS=@im=fcitx
+QT_QPA_PLATFORMTHEME=gtk3
+
+http_proxy="http://127.0.0.1:7890"
+https_proxy="http://127.0.0.1:7890"
