@@ -1,7 +1,6 @@
 7zip
 alsa-utils
 arc-gtk-theme
-archlinuxcn-keyring
 autoconf
 automake
 base
@@ -9,7 +8,6 @@ bash-completion
 bc
 bind
 capitaine-cursors
-clash-geoip
 cmake
 cronie
 dconf-editor
@@ -56,7 +54,6 @@ open-vm-tools
 openssh
 pacman-contrib
 pacutils
-pamac-aur
 papirus-icon-theme
 patch
 pavucontrol
@@ -114,5 +111,4 @@ xfwm4-themes
 xorg-server
 xorg-xdpyinfo
 xorg-xev
-yay
 zsh
